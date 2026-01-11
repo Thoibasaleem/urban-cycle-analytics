@@ -16,7 +16,7 @@ profitability, and seasonality using SQL and Power BI.
 - Profit margins increased year-over-year
 
 ## Dashboard
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](dashboard.png)
 
 ## Yearly Summary
 ![Yearly Summary](yearly_summary.png)
