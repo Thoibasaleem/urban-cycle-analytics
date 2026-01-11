@@ -18,7 +18,7 @@ profitability, and seasonality using SQL and Power BI.
 ![Dashboard](Dashboard.png)
 
 ## Data Summary
-![Yearly Summary](Yearly_Summary.png)
+![Yearly Summary](yearly_summary.png)
 
 ## Business Recommendation
 - Suggested a conservative 10–15% price increase based on demand and profit trends
