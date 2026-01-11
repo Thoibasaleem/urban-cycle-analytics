@@ -1,4 +1,3 @@
-
 # Urban Cycle Analytics 🚲
 
 ## Overview
@@ -15,11 +14,11 @@ profitability, and seasonality using SQL and Power BI.
 - Registered users account for over 80% of total riders
 - Profit margins increased year-over-year
 
-## Dashboard
-![Dashboard Overview](dashboard.png)
+## Dashboard Preview
+![Dashboard](Dashboard.png)
 
-## Yearly Summary
-![Yearly Summary](yearly_summary.png)
+## Data Summary
+![Yearly Summary](Yearly_Summary.png)
 
 ## Business Recommendation
 - Suggested a conservative 10–15% price increase based on demand and profit trends
